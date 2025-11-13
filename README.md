@@ -1,2 +1,2 @@
 # A Personal Portfolio Website 
-Using HTML , CSS , JAVASCRPIT
+Using HTML , CSS , BOOTSTRAP, JAVASCRPIT
